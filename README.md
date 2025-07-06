@@ -135,7 +135,7 @@ mkdir -p PSELD_pretrained_ckpts
 
 ### 2. Download Stereo-enhanced SELD pretrained models
 
-Download the pretrained models for the Stereo-enhanced SELD method from OneDrive [[link](https://1drv.ms/f/c/8129c8ae660ec19d/EoatvL9JxgpNvHcxNe-WUNoBx1zj3iIxQlbe7apTEUBlaw?e=IqiXJp)] and place them in the `pretrained_ckpts` folder.
+Download the pretrained models for the Stereo-enhanced SELD method from OneDrive [[link](https://1drv.ms/f/c/8129c8ae660ec19d/EgTDoBcM2H5LlzNhFHkmSWgBJmQ8-YDsoW0V2M92hx_Trg?e=yNfmkl)] and place them in the `pretrained_ckpts` folder.
 
 ```bash
 # Create the directory
